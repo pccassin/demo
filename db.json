@@ -1,8 +1,8 @@
 {
   "projects": [
-    { "id": 1, "title": "Project 1", "content": "Texto 1", "due": "05-02-2021" },
-    { "id": 2, "title": "Project 2", "content": "Texto 2", "due": "03-02-2021"  },
-    { "id": 3, "title": "Project 3", "content": "Texto 3", "due": "02-02-2021"  }
+    { "id": 1, "title": "Project 1", "person": "Pessoa 1", "due": "05-02-2021", "status": "ongoing" },
+    { "id": 2, "title": "Project 2", "person": "Pessoa 1", "due": "03-02-2021", "status": "overdue"},
+    { "id": 3, "title": "Project 3", "person": "Pessoa 3", "due": "02-02-2021", "status": "ongoing"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
