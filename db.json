@@ -1,8 +1,8 @@
 {
   "tracks": [
-    { "id": 1, "status": 3, "origin": "Rio de Janeiro", "destiny": "São Paulo", "stops": ["Americana","Sumaré","Hortolândia"], "total": 100, "free": 25 },
-    { "id": 2, "status": 2, "origin": "Rio de Janeiro", "destiny": "Belo Horizonte", "stops": ["Americana","Sumaré","Hortolândia"], "total": 1500, "free": 100},
-    { "id": 3, "status": 1, "origin": "Vitória", "destiny": "Salvador", "stops": ["Americana","Sumaré","Hortolândia"], "total": 3000, "free": 500},
+    { "id": 1, "status": 3, "origin": "Rio de Janeiro", "destiny": "São Paulo", "stops": " ", "total": 100, "free": 25 },
+    { "id": 2, "status": 2, "origin": "Rio de Janeiro", "destiny": "Belo Horizonte", "stops": " ", "total": 1500, "free": 100},
+    { "id": 3, "status": 1, "origin": "Vitória", "destiny": "Salvador", "stops": " ", "total": 3000, "free": 500},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
